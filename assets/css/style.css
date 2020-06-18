@@ -1185,7 +1185,10 @@ background: #91ce00;
   .portfolio-details {
     position: static;
     margin-top: 5.4%;
-    height: 45vh;
+    height: 60vh;
+  }
+  .portfolio-details-carousel img{
+    height: 50vh;
   }
 }
 
